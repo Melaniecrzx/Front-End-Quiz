@@ -572,7 +572,7 @@ uestion-title-container {
         flex-direction: column;
     }
     header {
-        padding: 4rem 8.75rem;
+        padding: 5.188rem 8.75rem;
     }
     .subject-list {
         gap: var(--space24);
